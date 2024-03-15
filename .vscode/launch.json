@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExercicioSeven",
+            "request": "launch",
+            "mainClass": "ExercicioSeven",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioSix",
+            "request": "launch",
+            "mainClass": "ExercicioSix",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioFive",
+            "request": "launch",
+            "mainClass": "ExercicioFive",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioFuor",
+            "request": "launch",
+            "mainClass": "ExercicioFuor",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioThree",
+            "request": "launch",
+            "mainClass": "ExercicioThree",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioTwo",
+            "request": "launch",
+            "mainClass": "ExercicioTwo",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioOne",
+            "request": "launch",
+            "mainClass": "ExercicioOne",
+            "projectName": "Aulas com java_9325177b"
+        }
+    ]
+}
