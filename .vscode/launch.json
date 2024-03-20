@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AtividaeSix",
+            "request": "launch",
+            "mainClass": "Exercicio_ComandodeRepetção.AtividaeSix",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "AtividadeFive",
+            "request": "launch",
+            "mainClass": "Exercicio_ComandodeRepetção.AtividadeFive",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "AtividadeFuor",
+            "request": "launch",
+            "mainClass": "Exercicio_ComandodeRepetção.AtividadeFuor",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "AtividadeThree",
+            "request": "launch",
+            "mainClass": "Exercicio_ComandodeRepetção.AtividadeThree",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "AtividadeOne",
+            "request": "launch",
+            "mainClass": "ExerciciodeSegunda.AtividadeOne",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
+            "name": "AtividadeTwo",
+            "request": "launch",
+            "mainClass": "ExerciciodeSegunda.AtividadeTwo",
+            "projectName": "Aulas com java_9325177b"
+        },
+        {
+            "type": "java",
             "name": "ExercicioSeven",
             "request": "launch",
             "mainClass": "ExercicioSeven",
